@@ -6,10 +6,10 @@ and trying to explore new things. I do love to work on enterprise projects ⚒.
 ### 🏆 Github Stats
 
   <img  src="https://github-readme-stats.vercel.app/api?username=Amimul1234&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Amimul1234&theme=dark" width="48%" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Amimul1234&theme=dark&show_icons=true&hide_border=true" width="48%" >
 
   <p align="center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Amimul1234&theme=dark&layout=compact" width="48%"/>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Amimul1234&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%"/>
   </p>
 
   <p align="center">
