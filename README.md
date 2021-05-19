@@ -16,14 +16,5 @@ and trying to explore new things. I do love to work on enterprise projects ⚒.
     <img src="https://profile-counter.glitch.me/Amimul1234/count.svg" alt="Visitor Count" align="center" />
   </p>
 
-
-### Commits 🚀
-  <img src= "https://metrics.lecoq.io/Amimul1234?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FDhaka"/>
-
-### 🥇 Achievements
-
-  <img src = "https://metrics.lecoq.io/Amimul1234?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FDhaka"/>
-
-### 🖥️ Stackoverflow Stats
-
-  <img  src="https://metrics.lecoq.io/Amimul1234?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stackoverflow=1&stackoverflow.user=11928455&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FDhaka" >
+### 👨‍💻 My stats
+<img src = "https://metrics.lecoq.io/Amimul1234?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&stackoverflow=1&people=1&isocalendar.duration=full-year&people.limit=28&people.size=28&people.types=followers&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&stackoverflow.user=11928455&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FDhaka"/>
