@@ -14,7 +14,7 @@ and trying to explore new things. I do love to work on enterprise projects ⚒.
 
 
 
-### 👁️ Total Visitors
+### Total Visitors 👀
 <img src="https://profile-counter.glitch.me/Amimul1234/count.svg" alt="Visitor Count"/>
 
 ### 👨‍💻 My stats
