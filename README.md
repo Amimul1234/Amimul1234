@@ -1,7 +1,8 @@
 # Hi everyone 🙋‍♂
 
-I'm Amimul Ehsan Rahi from Bangladesh. I mainly code in Java, Javascript, C, C++ and Python, but I am always learning
-and trying to explore new things. I do love to work on enterprise projects ⚒.
+I'm Amimul Ehsan Rahi a mad spring boot fan 🍃🍃🍃 . Java is the first choice for me while it comes to programming. I also do code in C, C++, Python, JavaScript. I do love to work on enterprise projects ⚒.
+
+For contact email me 📧: 1805056@ugrad.cse.buet.ac.bd 
 
 ### 🏆 Github Stats
 
