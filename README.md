@@ -1,21 +1,25 @@
 <a href="https://amimul1234.github.io/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/sync-dark.png">
-    <img src="assets/sync-light.png" width="100%" alt="Drawing of a shop counter that keeps selling while the line is down: sales wait in an outbox and sync to one Go binary and MySQL when it returns. Opens the portfolio.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <img src="assets/banner-light.png" width="100%" alt="Amimul Ehsan. Backend and field systems, Bangladesh. Software that keeps working when the network doesn't. Opens the portfolio.">
   </picture>
 </a>
 
-I design, write and ship whole systems on my own: Go APIs, offline-first Flutter apps, bKash payments, RFID at the door. They are built for shops, clinics and kiosks in Bangladesh where the connection is a maybe. Client code stays private; this is the record, with honest status.
+I design, write and ship whole systems on my own — Go APIs, offline-first Flutter apps, bKash payments, RFID at the door — for shops, clinics and kiosks where the connection is a maybe. Client code stays private; below is the record, with honest status.
 
-| System | What it is | Status |
-|:--|:--|:--|
-| **NEXA / Easy Print** | Pay-per-print kiosk. Scan a QR on the machine, pay with bKash, a print agent releases the job. One Go binary serves the API and the web app. | `LIVE · real payments` |
-| **Akhra** | Multi-gym access and billing. RFID tap, the door decides. A database per gym; no query names a tenant. | `DEMO LIVE` · [open](https://akhra.147.93.168.43.sslip.io/) |
-| **Nirog** | Hospital management for 20–150 bed hospitals. Postgres row-level security; tests crawl 962 screens across 12 roles. | `DEMO LIVE` · [open](https://nirog.147.93.168.43.sslip.io/) |
-| **Tirish** | Credit book for poultry dealers. Offline outbox where a refused write fails loudly; state derived, never stored twice. | `BUILT · e2e green` |
-| **MediHisab** | Pharmacy accounting in Bengali. Flutter app on a Go API. | `API LIVE · Play closed test` |
-| **Lobb** | Offline phone-to-phone file transfer. Raw-TCP Kotlin engine, 178 MB/s on loopback, every byte verified. | `ENGINE VERIFIED` |
+<p>
+  <a href="https://amimul1234.github.io/#work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nexa-dark.png"><img src="assets/card-nexa-light.png" width="49%" alt="Easy Print: pay-per-print kiosk. Live, taking real bKash payments."></picture></a>
+  <a href="https://akhra.147.93.168.43.sslip.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-akhra-dark.png"><img src="assets/card-akhra-light.png" width="49%" alt="Akhra: multi-gym access and billing over RFID. Demo live."></picture></a>
+</p>
+<p>
+  <a href="https://nirog.147.93.168.43.sslip.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nirog-dark.png"><img src="assets/card-nirog-light.png" width="49%" alt="Nirog: hospital management on Postgres row-level security, 962 screens tested across 12 roles. Demo live."></picture></a>
+  <a href="https://amimul1234.github.io/#work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-tirish-dark.png"><img src="assets/card-tirish-light.png" width="49%" alt="Tirish: credit book for poultry dealers with a loud offline outbox. Built, 14 end-to-end suites green."></picture></a>
+</p>
+<p>
+  <a href="https://amimul1234.github.io/#work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-medihisab-dark.png"><img src="assets/card-medihisab-light.png" width="49%" alt="MediHisab: pharmacy accounting in Bengali. API live, Android app in Play closed test."></picture></a>
+  <a href="https://amimul1234.github.io/#work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-lobb-dark.png"><img src="assets/card-lobb-light.png" width="49%" alt="Lobb: offline phone-to-phone file transfer, 178 MB/s on loopback. Engine verified."></picture></a>
+</p>
 
-I take contract work at fixed prices: a three-day audit ($500), a two-week build sprint ($3,600) or a monthly retainer ($4,500). [What each includes →](https://amimul1234.github.io/#hire)
+Contract work at fixed prices — a three-day audit, a two-week build sprint, or a monthly retainer. [Scope and prices →](https://amimul1234.github.io/#hire)
 
-[amimul1234.github.io](https://amimul1234.github.io/) · [amimulahsan7@gmail.com](mailto:amimulahsan7@gmail.com)
+<sub>[amimul1234.github.io](https://amimul1234.github.io/) &nbsp;·&nbsp; [amimulahsan7@gmail.com](mailto:amimulahsan7@gmail.com) &nbsp;·&nbsp; UTC+6</sub>
